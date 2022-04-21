@@ -1,4 +1,5 @@
-wowsStat是一个让QQ群成员通过输入简单指令就可以查询战舰世界(窝窝屎)战绩的机器人。本机器人基于[mirai](https://github.com/mamoe/mirai)和 [Ariadne](https://github.com/GraiaProject/Ariadne)开发，数据通过WG[官方的API](https://developers.wargaming.net/reference/)和wows-numbers.com 获取
+## wwsStat
+wowsStat试一个让QQ群成员通过输入简单指令就可以查询战舰世界(窝窝屎)战绩的机器人。本机器人基于[mirai](https://github.com/mamoe/mirai)和 [Ariadne](https://github.com/GraiaProject/Ariadne)开发，数据通过WG[官方的API](https://developers.wargaming.net/reference/)和wows-numbers.com 获取
 
 wowsStat is a simple QQ group bot that allows members to query their WoWS battle statistics using some simple command. The bot is developed using [mirai](https://github.com/mamoe/mirai)和 [Ariadne](https://github.com/GraiaProject/Ariadne) and the data is accquired from WG [official API](https://developers.wargaming.net/reference/) and wows-numbers.com.
 
@@ -8,7 +9,7 @@ wowsStat is a simple QQ group bot that allows members to query their WoWS battle
 
 This bot is still under development, and it only support limited commands with low parallel performance. Any improvements are welcome.
 
-##运行 Run:
+## 运行 Run:
 - 安装 Python 3 / Install Python 3
 - `pip install requests selenium undetected-chromedriver`
 - 安装 Mirai 和 Ariadne / Install Mirai and Ariadne
@@ -26,7 +27,7 @@ Under /wowsStat, create `config.txt`, copy the following content and replace wit
 
 
 
-##命令：
+## 命令：
 - **账号绑定 Account Binding**: 
 将自己的QQ账号与战舰世界账号绑定
 Bind QQ account with WoWS account
