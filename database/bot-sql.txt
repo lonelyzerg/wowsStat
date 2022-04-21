@@ -1,0 +1,5 @@
+CREATE TABLE player(
+    "qq" CHAR(20) PRIMARY KEY,
+    "server" CHAR(10) NOT NULL,
+    "accid" INT NOT NULL
+);

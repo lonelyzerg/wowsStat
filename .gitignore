@@ -1,0 +1,8 @@
+config.txt
+/__pycache__/
+/database/wows.db
+/sqlite/
+/pyvenv/
+/mirai/
+/*.exe
+!.gitignore
