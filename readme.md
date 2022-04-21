@@ -24,7 +24,8 @@ This bot is still under development and it only supports limited commands with l
 - 在wowsStat目录下创建`config.txt`，复制下面的内容并替换bot的QQ号(不带引号)和你向WG申请的App ID
 
   Under /wowsStat, create `config.txt`, copy the following content and replace with your own account and ID.
-```{
+```
+{
   "qq": Bot QQ,
   "appid": "Your WG App ID"
 }
