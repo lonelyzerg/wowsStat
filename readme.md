@@ -42,7 +42,7 @@ This bot is still under development and it only supports limited commands with l
 
   Bind QQ account with WoWS account
 
-  @bot wws set [server] [nickname]
+  `@bot wws set [server] [nickname]`
 
   服务器可选项 亚服: asia, 欧服: eu, 美服: na, 毛服: ru.
 
@@ -54,7 +54,7 @@ This bot is still under development and it only supports limited commands with l
 
   Overall statistics look up
 
-  @bot wws [server] [nickname]
+  `@bot wws [server] [nickname]`
   
   如果绑定了账号，可以直接用me代替[server] [nickname]，下同
 
@@ -66,7 +66,7 @@ This bot is still under development and it only supports limited commands with l
 
   Battle statistics of recent N days
 
-  @bot wws [server] [nickname] recent N
+  `@bot wws [server] [nickname] recent N`
 
   最多支持最近21天战绩查询，如果不填N，默认查询最近1天的战绩
 
@@ -80,7 +80,7 @@ This bot is still under development and it only supports limited commands with l
 
   Statistics of specified warship
 
-  @bot wws [server] [nickname] ship [ship name]
+  `@bot wws [server] [nickname] ship [ship name]`
 
   开发中...
 
