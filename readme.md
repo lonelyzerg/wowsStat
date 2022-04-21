@@ -72,7 +72,7 @@ This bot is still under development and it only supports limited commands with l
 
   Maximum N is 21. Default N is 1 if left blank.
  
-  (这一功能是爬取wowsnumbers网站数据所得，网站开起来cloudflare反爬虫，所以只能采用模拟浏览器的方式获取数据，稳定性较差，而且网站数据更新时间也不确定，并且当查询有些账号最近某天的战绩会HTTP 500加载不出来导致查询失败)
+  (这一功能是爬取wowsnumbers网站数据所得，网站开起了cloud flare反爬虫，所以只能采用模拟浏览器的方式获取数据，稳定性较差，而且网站数据更新时间也不确定，并且当查询有些账号最近某天的战绩会HTTP 500加载不出来导致查询失败)
  
 - **查询单船数据 Ship Statistics (Under development)**:
 
