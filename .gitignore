@@ -5,4 +5,5 @@ config.txt
 /pyvenv/
 /mirai/
 /*.exe
+*.pyc
 !.gitignore
