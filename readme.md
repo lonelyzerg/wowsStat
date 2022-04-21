@@ -46,21 +46,21 @@ Overall statistics look up
   if you have binded WoWS account, you can use "me" to replace "[server] [nickname]"
   
 - **近期战绩查询 Recent Statistics**:
-查询最近N天的战绩
-Battle statistics of recent N days
+  查询最近N天的战绩
+  Battle statistics of recent N days
 
- @bot wws [server] [nickname] recent N
+  @bot wws [server] [nickname] recent N
 
- 最多支持最近21天战绩查询，如果不填N，默认查询最近1天的战绩
- Maximum N is 21. Default N is 1 if left blank.
+  最多支持最近21天战绩查询，如果不填N，默认查询最近1天的战绩
+  Maximum N is 21. Default N is 1 if left blank.
  
- (这一功能是爬取wowsnumbers网站数据所得，网站开起来cloudflare反爬虫，所以只能采用模拟浏览器的方式获取数据，稳定性较差，而且网站数据更新时间也不确定，并且当查询有些账号最近某天的战绩会HTTP 500加载不出来导致查询失败)
+  (这一功能是爬取wowsnumbers网站数据所得，网站开起来cloudflare反爬虫，所以只能采用模拟浏览器的方式获取数据，稳定性较差，而且网站数据更新时间也不确定，并且当查询有些账号最近某天的战绩会HTTP 500加载不出来导致查询失败)
  
 - **查询单船数据 Ship Statistics (Under development)**:
- 查询指定战舰战绩
- Statistics of specified warship
+  查询指定战舰战绩
+  Statistics of specified warship
 
   @bot wws [server] [nickname] ship [ship name]
- 开发中...
+  开发中...
 
 
