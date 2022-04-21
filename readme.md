@@ -1,5 +1,5 @@
 ## wwsStat
-wowsStat试一个让QQ群成员通过输入简单指令就可以查询战舰世界~~(窝窝屎)~~战绩的机器人。本机器人基于[mirai](https://github.com/mamoe/mirai)和 [Ariadne](https://github.com/GraiaProject/Ariadne)开发，数据通过WG[官方的API](https://developers.wargaming.net/reference/)和wows-numbers.com 获取
+wowsStat试一个让QQ群成员通过输入简单指令就可以查询战舰世界 ~~(窝窝屎)~~ 战绩的机器人。本机器人基于[mirai](https://github.com/mamoe/mirai)和 [Ariadne](https://github.com/GraiaProject/Ariadne)开发，数据通过WG[官方的API](https://developers.wargaming.net/reference/)和wows-numbers.com 获取
 
 wowsStat is a simple QQ group bot that allows members to query their WoWS battle statistics using some simple command. The bot is developed using [mirai](https://github.com/mamoe/mirai)和 [Ariadne](https://github.com/GraiaProject/Ariadne) and the data is accquired from WG [official API](https://developers.wargaming.net/reference/) and wows-numbers.com.
 
