@@ -24,11 +24,11 @@ This bot is still under development, and it only support limited commands with l
 - 在wowsStat目录下创建`config.txt`，复制下面的内容并替换bot的QQ号(不带引号)和你向WG申请的App ID
 
   Under /wowsStat, create `config.txt`, copy the following content and replace with your own account and ID.
-{
+```{
   "qq": Bot QQ,
   "appid": "Your WG App ID"
 }
-
+```
 - 启动 `mcl` / Start `mcl`
 - `python bot.py`
 
@@ -37,9 +37,9 @@ This bot is still under development, and it only support limited commands with l
 ## 命令：
 - **账号绑定 Account Binding**: 
 
-将自己的QQ账号与战舰世界账号绑定
+  将自己的QQ账号与战舰世界账号绑定
 
-Bind QQ account with WoWS account
+  Bind QQ account with WoWS account
 
   @bot wws set [server] [nickname]
 
@@ -49,9 +49,9 @@ Bind QQ account with WoWS account
 
 - **总体战绩查询 Overall Statistics**: 
 
-查询账号总体战绩
+  查询账号总体战绩
 
-Overall statistics look up
+  Overall statistics look up
 
   @bot wws [server] [nickname]
   
